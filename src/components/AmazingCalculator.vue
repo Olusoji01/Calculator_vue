@@ -54,7 +54,7 @@ const displayClass = computed(() => {
   </div>
 </template>
 
-<style>
+<style scoped>
 input {
   padding: 10px 20px;
   margin-bottom: 20px;
